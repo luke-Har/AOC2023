@@ -7,9 +7,11 @@
             //Day1 d1 = new Day1();
             //d1.Part1();
             //d1.Part2();
-            Day2 d2 = new Day2();
+            //Day2 d2 = new Day2();
             //d2.Part1();
-            d2.Part2();
+            //d2.Part2();
+            Day3 d3 = new Day3();
+            d3.Part1();
         }
     }
 
